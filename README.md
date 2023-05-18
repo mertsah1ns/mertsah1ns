@@ -2,7 +2,6 @@
 # Hi there, I'm Mert Şahin 👋
 
 ## I'm a student and a curious person!
-- Let me introduce myself. I am a student of Dokuz Eylul University Machinery and Elements. I am also a student of Anadolu University Web Design and coding department.
 
 ### To Contact me:
 
